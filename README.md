@@ -12,4 +12,4 @@ Not a methodology. Just a preference for evidence over "should work."
 
 ## Writing
 
-- [Evidence-driven engineering](principles/evidence-driven-engineering.md) · v0.1 · 2026-10-05
+- [Evidence-driven engineering](principles/evidence-driven-engineering.md) · v0.1.1 · 2026-10-05
