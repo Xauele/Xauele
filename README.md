@@ -10,4 +10,6 @@ I've started using **evidence-driven engineering** as a name for this way of thi
 
 Not a methodology. Just a preference for evidence over "should work."
 
-I'm writing down some notes as I go.
+## Writing
+
+- [Evidence-driven engineering](principles/evidence-driven-engineering.md) · v0.1 · 2026-10-05
